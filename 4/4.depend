@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1619141639 source:c:\users\alex\desktop\programas c++\proyecto euler\4\main.cpp
-	<iostream>
-	<math.h>
-	<stdio.h>
-	<stdlib.h>
-	<string>
-	<string.h>
-
