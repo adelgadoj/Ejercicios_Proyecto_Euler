@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619148612 source:c:\users\alex\desktop\programas c++\proyecto euler\5\main.cpp
+	<iostream>
+	<math.h>
+
