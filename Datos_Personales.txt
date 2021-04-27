@@ -1,0 +1,3 @@
+Nombre: Alexandro Delgado Justo
+CUI: 20173455
+Github: https://github.com/adelgadoj/Ejercicios_Proyecto_Euler
