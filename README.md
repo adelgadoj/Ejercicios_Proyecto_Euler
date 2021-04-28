@@ -1,3 +1,3 @@
-# PROYECT EULER PROBLEMAS RESUELTOS
-Aqui dejo los programas que dan solucion a los problemas de la pagina Proyecto Euler.
-# SIGUEME EN INSTA
+# PROYECT EULER PROBLEMAS RESUELTOS 1-15
+Resulucion de los problemas del 1 al 15
+de la pagina https://projecteuler.net/
